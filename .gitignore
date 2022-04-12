@@ -1,0 +1,9 @@
+*.pem
+*.pyc
+blocks/blocks/*/migrations/*.py
+blocks/*/migrations/*.py
+blocks/env*/
+.env
+tags
+Xcos/U*.sci
+Xcos/*.xml
